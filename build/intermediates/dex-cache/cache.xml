@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yonyou/.gradle/caches/modules-2/files-2.1/de.greenrobot/greendao/1.3.7/dda08161d004c4df96938da6909f1c2b96cd33c8/greendao-1.3.7.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dda08161d004c4df96938da6909f1c2b96cd33c8">
+        <dex dex="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-1.3.7_3bce5061d01a3aa7dcfe36d437bd9de0eb7b7f22/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_8d7e185fd081beba8754d7a4ad0bc39f184deb9e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_3a8ea08f2184251bc6adab2ff2ef01d9247afb03/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_5066bb106eacd3aafedf498920d35305ae8747b4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3bb630e9f52996f5b44804ccb1c6c62a4c2823bd">
+        <dex dex="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8a4db5cc186a2fa6620cca5281b14dbc972ae9e7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_7a558ff0bb1d0de4875d79651824040b92111910/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yonyou/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f8d418cc8e7de2bd7f9e3db425911e7194b33361/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="14e7380ad3a32bfa93ffa540e6b4a512da191c6e">
+        <dex dex="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8b1a6cdc6c901a18a8b13d5b450023f65a0fda20/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/yonyou/Desktop/Works/GreenDao_demo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_d6af04efc3a0fade9cd64a93fc1923ca209bf511/classes.dex" />
+    </item>
+
+</items>
